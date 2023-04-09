@@ -36,7 +36,7 @@ public class Periodico extends Escrito{
 		getAutor()+"\n"+
 		getPaginas()+"\n"+
 		getFecha()+"\n"+
-		getPrimicia()+"\n";
+		getPrimicia();
 	}
 ////// Metodos get y set ////////////////
 	public String getFecha() {

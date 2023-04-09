@@ -38,7 +38,7 @@ public class Libro extends Escrito{
 		getPaginas()+"\n"+
 		getCo_autor()+"\n"+
 		getEditorial()+"\n"+
-		getEdicion()+"\n";
+		getEdicion();
 	}
 	
 	
